@@ -1,7 +1,7 @@
 # Human-in-the-Loop Active Learning for Reliable Person Detection and Tracking in Overhead Fisheye Videos
 
 **HSBI · HITL Machine Learning · 2026**  
-**Team:** [Add team members]  
+**Team:** 1 member
 **Deliverable 1:** [Main Active Learning notebook](active_learning/01_active_learning_tracking_reliability.ipynb) · [Data audit](active_learning/00_data_audit.ipynb)
 
 ## Project overview
