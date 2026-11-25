@@ -90,8 +90,4 @@ Open both notebooks in JupyterLab, select the project Python kernel, run all cel
 
 Results come from **one video scene** with a temporal train/test split. Labels depend on the IoU threshold and matching quality; AP is not tracking identity accuracy. The simulated oracle is not a real human study. Future work may introduce human box corrections (e.g. through CVAT), retrain the reliability classifier, and assess whether corrected annotations can improve YOLO and downstream ByteTrack performance. Those improvements have **not yet been demonstrated**.
 
-## Submission
 
-Submit through **ILIAS → Project Deliverables** by **27 November 2026**: project title and description, team members, GitHub repository URL, direct main-notebook URL, and Git commit hash. No separate PDF or ZIP is required.
-
-[Course Deliverable 1 instructions](https://github.com/mbaezpy/hsbi-hitl-2026/blob/main/project_deliverables/01_active_learning.md)
