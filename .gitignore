@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.pytest_cache/
+.DS_Store
+# Original WEPDTOF images, annotations, videos, checkpoints, and large files stay on the cluster.
+*.pt
+*.pth
+*.mp4
+*.jpg
+*.jpeg
+Wepdtof_raws/
+models/
+# Full ground-truth-derived datasets are generated on user cluster; review license before publishing.
+data/real/*.csv
+data/real/*.csv.gz
+# Committed pilot data and learning-curve figures are deliberate small teaching artifacts.
+!results/pilot/learning_curves.png
+!results/pilot/learning_curves_f1.png
+!results/pilot/label_counts.png

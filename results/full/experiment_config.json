@@ -1,0 +1,13 @@
+{
+  "seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "initial_positive": 10,
+  "initial_negative": 10,
+  "batch_size": 20,
+  "rounds": 6
+}
